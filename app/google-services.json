@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192081000693",
+    "project_id": "sign-in-with-bcff2",
+    "storage_bucket": "sign-in-with-bcff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192081000693:android:3ffaff230a2c78d0ecedbc",
+        "android_client_info": {
+          "package_name": "com.example.signinwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192081000693-frv55ke6gpcebe2h6tb59uq4cc5kg4ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signinwithgoogle",
+            "certificate_hash": "225ec12e50b5aefe0b03425657548318ea3a83d5"
+          }
+        },
+        {
+          "client_id": "192081000693-uvr3tvc40apb4r82ee5c8qabab2sjl15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRfgF2fxvGX6IAZiAjMR-WzBWurARmY9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192081000693-uvr3tvc40apb4r82ee5c8qabab2sjl15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
